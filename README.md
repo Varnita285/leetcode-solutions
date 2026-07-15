@@ -27,6 +27,7 @@ Happy Coding! 💻
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varnita285/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varnita285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Varnita285/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varnita285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Varnita285/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Varnita285/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -48,6 +50,7 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varnita285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Varnita285/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Varnita285/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
