@@ -27,11 +27,13 @@ Happy Coding! 💻
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varnita285/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varnita285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Varnita285/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Varnita285/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varnita285/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Varnita285/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,8 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Varnita285/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Varnita285/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
