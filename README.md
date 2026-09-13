@@ -28,6 +28,7 @@ Happy Coding! 💻
 | [0011-container-with-most-water](https://github.com/Varnita285/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varnita285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Varnita285/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Varnita285/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
@@ -62,4 +63,21 @@ Happy Coding! 💻
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Varnita285/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Varnita285/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
